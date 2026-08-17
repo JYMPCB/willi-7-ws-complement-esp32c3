@@ -15,7 +15,7 @@ static const char *TAG = "c3_i2c_actuator";
 
 // Pines solicitados por integracion
 // RGB: G=5, R=6, B=7
-// BEEP: 10
+// BEEP: 8
 // I2C esclavo: SDA=4, SCL=3
 static const gpio_num_t PIN_G = GPIO_NUM_5;
 static const gpio_num_t PIN_R = GPIO_NUM_6;
