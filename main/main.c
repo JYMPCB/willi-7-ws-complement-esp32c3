@@ -20,7 +20,7 @@ static const char *TAG = "c3_i2c_actuator";
 static const gpio_num_t PIN_G = GPIO_NUM_5;
 static const gpio_num_t PIN_R = GPIO_NUM_6;
 static const gpio_num_t PIN_B = GPIO_NUM_7;
-static const gpio_num_t PIN_BEEP = GPIO_NUM_10;
+static const gpio_num_t PIN_BEEP = GPIO_NUM_8;
 
 static const i2c_port_t I2C_PORT = I2C_NUM_0;
 static const gpio_num_t I2C_SDA = GPIO_NUM_4;
